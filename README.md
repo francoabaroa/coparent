@@ -1,3 +1,4 @@
-Coparent - get answers from the American Academy of Pediatrics
+# Coparent
 
-Based on the LangChain.js-LLM-Template built by @Conner1115
+- Get answers from the American Academy of Pediatrics using OpenAI's embeddings endpoint
+- Based on the LangChain.js-LLM-Template built by @Conner1115
