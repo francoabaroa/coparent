@@ -1,0 +1,14 @@
+{
+  "name": "coparent",
+  "version": "1.0.0",
+  "description": "copilot for parenting",
+  "main": "convertPdfToMarkdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "franco",
+  "license": "ISC",
+  "dependencies": {
+    "@opendocsg/pdf2md": "^0.1.25"
+  }
+}
